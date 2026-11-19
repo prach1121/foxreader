@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec.local
+
+# Application runtime data
+.cache/
+cache-file/
+songs/
+.cache/
+
+# Logs and local data
+*.log
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
