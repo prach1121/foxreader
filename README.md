@@ -8,6 +8,8 @@
 ![status](https://img.shields.io/badge/status-Active-brightgreen)
 ![version](https://img.shields.io/badge/version-1.0-blueviolet)
 
+**Disclaimer : The exe need the FFmpeg in same path as .exe file**
+
 ## What it is
 All-in-one media app: videos, music and pictures in one window and one playlist (pictures: zoom, pan, rotate, slideshow).
 
