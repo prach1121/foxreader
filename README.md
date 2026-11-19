@@ -1,4 +1,13 @@
 
+![platform](https://img.shields.io/badge/platform-Windows-0078D6)
+![language](https://img.shields.io/badge/language-Python-3776AB)
+![framework](https://img.shields.io/badge/framework-PySide6-41CD52)
+![browser](https://img.shields.io/badge/browser-Chromium-4285F4)
+![engine](https://img.shields.io/badge/browser_engine-QtWebEngine-41CD52)
+![player](https://img.shields.io/badge/media-FFmpeg-007808)
+![status](https://img.shields.io/badge/status-Active-brightgreen)
+![version](https://img.shields.io/badge/version-1.0-blueviolet)
+
 ## What it is
 All-in-one media app: videos, music and pictures in one window and one playlist (pictures: zoom, pan, rotate, slideshow).
 
